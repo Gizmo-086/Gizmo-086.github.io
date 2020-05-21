@@ -6,7 +6,7 @@
 
 [Project 1 Title](/sample_page)
 <br>
-<img src="Gizmo-086.github.io/Images/dummy_thumbnail.PNG?raw=true"/>
+<img src="Images/dummy_thumbnail.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/sample_page)
